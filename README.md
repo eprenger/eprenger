@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eprenger
+- 👀 I’m interested in code, web development, sports and gaming.
+- 🌱 I’m currently learning postgres, javascript/react and C++,
+- 📫 How to reach me by email.. (eprenger23@gmail.com)
